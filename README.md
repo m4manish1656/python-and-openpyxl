@@ -1,4 +1,4 @@
-# python-and-openpyxl
+# python-and-openpyxl to read excel
 This code is to read the excel file on your system using python and openpyxl module.
 My motive is to highlight error in 4 lines of code and the solution as these errors are normal but can create serious problem.
 
